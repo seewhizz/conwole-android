@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <color name="colorPrimary">#081829</color>-->
+<!--    <color name="colorPrimaryDark">#081829</color>-->
+
+    <color name="colorPrimary">#1B1B1B</color> <!-- #40423F -->
+    <color name="colorPrimaryDark">#000100</color> <!-- #1F221F -->
+    <color name="colorAccent">#0096F4</color>
+    <color name="colorSecondary">#343734</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="greyLine">#1A1D1A</color>
+    <color name="iconColor">#F8FAF7</color>
+    <color name="warning">#EB4A53</color>
+
+    <!-- uCrop -->
+    <color name="ucrop_color_toolbar">@color/colorPrimary</color>
+    <color name="ucrop_color_statusbar">@color/colorPrimaryDark</color>
+    <color name="ucrop_color_toolbar_widget">@color/white</color>
+    <color name="ucrop_color_blaze_orange">@color/colorAccent</color>
+    <color name="ucrop_color_ebony_clay">@color/colorPrimary</color>
+
+</resources>

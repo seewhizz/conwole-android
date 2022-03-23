@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".AboutUsActivity">
+
+    <LinearLayout
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="Conwole refers to connect to the world of learners . We focus on making you learn the real meaning of education by providing you the right mentors and also giving you the best quality content in a series . Reward you for your achievements and also support you throughout your journey . We are totally focusing on disrupting the traditional form of education .\n\n
+Conwole was started by Mr. Akash Sharma . Currently the major issue with the colleges and education is that they focus on the curriculum and the student gets into an ecosystem where there is no choice of growing themselves . They just get into that ecosystem where selfgrowth is not at all .\n\n
+When we talk about engineering colleges and that also tier 3 engineering colleges , there is no focus on growth of the mentality of talented people . They are still focusing on 90’s syllabus and assignments . When the student gets into the final year he/she has no choice rather than taking a 30k to 40k job . It does not matter how talented the person is . If the person is from a tier 3 college he / she will get judged on the basis of the college only . So for these people and also for the learners we have launched this app .
+"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/white"
+            android:textStyle="normal" />
+
+    </LinearLayout>
+
+</ScrollView>

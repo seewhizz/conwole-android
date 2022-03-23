@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_selector"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_mentor"
+        android:icon="@drawable/mentor_selector"
+        android:title="Mentorship" />
+
+    <item
+        android:id="@+id/navigation_training"
+        android:icon="@drawable/training_selector"
+        android:title="Training" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/settings_selector"
+        android:title="Settings" />
+
+</menu>
